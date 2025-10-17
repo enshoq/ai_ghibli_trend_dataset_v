@@ -60,19 +60,6 @@ Medium generation times (30–60 sec) perform best.
 Hand-edited images gain ~15% more engagement.
 Ensemble methods outperform linear and distance-based algorithms.
 
-📁 Project Structure
-ai_ghibli_trend_dataset_v/
-│
-├── original_data/              # Raw dataset files
-├── preprocessed_data/          # Cleaned & processed data
-├── real targets for training/  # True engagement labels
-├── Results/                    # Output graphs, model scores, and visualizations
-│
-├── AI GAIBLI.py                # Initial analysis script
-├── ai_ghibli_trend_dataset_v.py # Main Python file (final model + evaluation)
-├── README.md                   # Project documentation
-
-
 🧰 Tools & Libraries
 Languages: Python
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
